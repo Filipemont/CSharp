@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Questao1Classes/1.0.0": {
+        "runtime": {
+          "Questao1Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Questao1Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

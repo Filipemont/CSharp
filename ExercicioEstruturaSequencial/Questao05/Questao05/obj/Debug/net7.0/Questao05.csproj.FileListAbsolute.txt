@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\bin\Debug\net7.0\Questao05.exe
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\bin\Debug\net7.0\Questao05.deps.json
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\bin\Debug\net7.0\Questao05.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\bin\Debug\net7.0\Questao05.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\bin\Debug\net7.0\Questao05.pdb
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\obj\Debug\net7.0\Questao05.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\obj\Debug\net7.0\Questao05.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\obj\Debug\net7.0\Questao05.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\obj\Debug\net7.0\Questao05.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\obj\Debug\net7.0\Questao05.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\obj\Debug\net7.0\Questao05.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\obj\Debug\net7.0\refint\Questao05.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\obj\Debug\net7.0\Questao05.pdb
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\obj\Debug\net7.0\Questao05.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao05\Questao05\obj\Debug\net7.0\ref\Questao05.dll

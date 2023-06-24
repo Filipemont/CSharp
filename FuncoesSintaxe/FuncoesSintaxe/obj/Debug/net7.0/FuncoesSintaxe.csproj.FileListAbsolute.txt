@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net7.0\FuncoesSintaxe.exe
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net7.0\FuncoesSintaxe.deps.json
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net7.0\FuncoesSintaxe.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net7.0\FuncoesSintaxe.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\bin\Debug\net7.0\FuncoesSintaxe.pdb
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\refint\FuncoesSintaxe.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.pdb
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\FuncoesSintaxe.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\FuncoesSintaxe\FuncoesSintaxe\obj\Debug\net7.0\ref\FuncoesSintaxe.dll

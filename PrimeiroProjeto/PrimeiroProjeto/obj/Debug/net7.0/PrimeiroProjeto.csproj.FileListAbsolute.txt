@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.exe
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.deps.json
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.dll
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.pdb
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.dll
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\refint\PrimeiroProjeto.dll
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.pdb
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net7.0\ref\PrimeiroProjeto.dll

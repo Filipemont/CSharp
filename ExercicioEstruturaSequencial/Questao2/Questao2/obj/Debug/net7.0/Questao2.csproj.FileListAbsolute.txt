@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\obj\Debug\net7.0\Questao2.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\obj\Debug\net7.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\obj\Debug\net7.0\Questao2.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\obj\Debug\net7.0\Questao2.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\obj\Debug\net7.0\Questao2.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\bin\Debug\net7.0\Questao2.exe
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\bin\Debug\net7.0\Questao2.deps.json
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\bin\Debug\net7.0\Questao2.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\bin\Debug\net7.0\Questao2.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\bin\Debug\net7.0\Questao2.pdb
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\obj\Debug\net7.0\Questao2.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\obj\Debug\net7.0\refint\Questao2.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\obj\Debug\net7.0\Questao2.pdb
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\obj\Debug\net7.0\Questao2.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\Questao2\Questao2\obj\Debug\net7.0\ref\Questao2.dll

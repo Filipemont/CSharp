@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\bin\Debug\net7.0\Questao2Classe.exe
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\bin\Debug\net7.0\Questao2Classe.deps.json
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\bin\Debug\net7.0\Questao2Classe.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\bin\Debug\net7.0\Questao2Classe.dll
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\bin\Debug\net7.0\Questao2Classe.pdb
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\obj\Debug\net7.0\Questao2Classe.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\obj\Debug\net7.0\Questao2Classe.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\obj\Debug\net7.0\Questao2Classe.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\obj\Debug\net7.0\Questao2Classe.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\obj\Debug\net7.0\Questao2Classe.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\obj\Debug\net7.0\Questao2Classe.dll
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\obj\Debug\net7.0\refint\Questao2Classe.dll
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\obj\Debug\net7.0\Questao2Classe.pdb
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\obj\Debug\net7.0\Questao2Classe.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\Questao2Classe\Questao2Classe\obj\Debug\net7.0\ref\Questao2Classe.dll

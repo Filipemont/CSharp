@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\obj\Debug\net7.0\TrianguloComMetodo.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\obj\Debug\net7.0\TrianguloComMetodo.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\obj\Debug\net7.0\TrianguloComMetodo.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\obj\Debug\net7.0\TrianguloComMetodo.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\obj\Debug\net7.0\TrianguloComMetodo.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\bin\Debug\net7.0\TrianguloComMetodo.exe
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\bin\Debug\net7.0\TrianguloComMetodo.deps.json
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\bin\Debug\net7.0\TrianguloComMetodo.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\bin\Debug\net7.0\TrianguloComMetodo.dll
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\bin\Debug\net7.0\TrianguloComMetodo.pdb
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\obj\Debug\net7.0\TrianguloComMetodo.dll
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\obj\Debug\net7.0\refint\TrianguloComMetodo.dll
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\obj\Debug\net7.0\TrianguloComMetodo.pdb
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\obj\Debug\net7.0\TrianguloComMetodo.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\TrianguloComMetodo\TrianguloComMetodo\obj\Debug\net7.0\ref\TrianguloComMetodo.dll

@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\bin\Debug\net7.0\AulaDoisSegundaParte.exe
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\bin\Debug\net7.0\AulaDoisSegundaParte.deps.json
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\bin\Debug\net7.0\AulaDoisSegundaParte.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\bin\Debug\net7.0\AulaDoisSegundaParte.dll
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\bin\Debug\net7.0\AulaDoisSegundaParte.pdb
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\obj\Debug\net7.0\AulaDoisSegundaParte.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\obj\Debug\net7.0\AulaDoisSegundaParte.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\obj\Debug\net7.0\AulaDoisSegundaParte.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\obj\Debug\net7.0\AulaDoisSegundaParte.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\obj\Debug\net7.0\AulaDoisSegundaParte.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\obj\Debug\net7.0\AulaDoisSegundaParte.dll
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\obj\Debug\net7.0\refint\AulaDoisSegundaParte.dll
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\obj\Debug\net7.0\AulaDoisSegundaParte.pdb
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\obj\Debug\net7.0\AulaDoisSegundaParte.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\AulaDoisSegundaParte\AulaDoisSegundaParte\obj\Debug\net7.0\ref\AulaDoisSegundaParte.dll

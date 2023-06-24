@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net7.0\ExercicioEntradaDeDados.exe
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net7.0\ExercicioEntradaDeDados.deps.json
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net7.0\ExercicioEntradaDeDados.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net7.0\ExercicioEntradaDeDados.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net7.0\ExercicioEntradaDeDados.pdb
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net7.0\ExercicioEntradaDeDados.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net7.0\ExercicioEntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net7.0\ExercicioEntradaDeDados.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net7.0\ExercicioEntradaDeDados.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net7.0\ExercicioEntradaDeDados.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net7.0\ExercicioEntradaDeDados.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net7.0\refint\ExercicioEntradaDeDados.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net7.0\ExercicioEntradaDeDados.pdb
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net7.0\ExercicioEntradaDeDados.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net7.0\ref\ExercicioEntradaDeDados.dll

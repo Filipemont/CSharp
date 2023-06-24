@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\bin\Debug\net7.0\EstruturaWhile.exe
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\bin\Debug\net7.0\EstruturaWhile.deps.json
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\bin\Debug\net7.0\EstruturaWhile.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\bin\Debug\net7.0\EstruturaWhile.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\bin\Debug\net7.0\EstruturaWhile.pdb
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\obj\Debug\net7.0\EstruturaWhile.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\obj\Debug\net7.0\EstruturaWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\obj\Debug\net7.0\EstruturaWhile.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\obj\Debug\net7.0\EstruturaWhile.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\obj\Debug\net7.0\EstruturaWhile.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\obj\Debug\net7.0\EstruturaWhile.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\obj\Debug\net7.0\refint\EstruturaWhile.dll
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\obj\Debug\net7.0\EstruturaWhile.pdb
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\obj\Debug\net7.0\EstruturaWhile.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\ExercicioEstruturaSequencial\EstruturaWhile\EstruturaWhile\obj\Debug\net7.0\ref\EstruturaWhile.dll

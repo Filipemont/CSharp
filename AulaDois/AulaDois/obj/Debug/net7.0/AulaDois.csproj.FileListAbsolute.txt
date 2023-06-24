@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\bin\Debug\net7.0\AulaDois.exe
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\bin\Debug\net7.0\AulaDois.deps.json
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\bin\Debug\net7.0\AulaDois.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\bin\Debug\net7.0\AulaDois.dll
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\bin\Debug\net7.0\AulaDois.pdb
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\obj\Debug\net7.0\AulaDois.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\obj\Debug\net7.0\AulaDois.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\obj\Debug\net7.0\AulaDois.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\obj\Debug\net7.0\AulaDois.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\obj\Debug\net7.0\AulaDois.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\obj\Debug\net7.0\AulaDois.dll
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\obj\Debug\net7.0\refint\AulaDois.dll
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\obj\Debug\net7.0\AulaDois.pdb
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\obj\Debug\net7.0\AulaDois.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\AulaDois\AulaDois\obj\Debug\net7.0\ref\AulaDois.dll

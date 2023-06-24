@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\bin\Debug\net7.0\QuestaoComClasses.exe
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\bin\Debug\net7.0\QuestaoComClasses.deps.json
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\bin\Debug\net7.0\QuestaoComClasses.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\bin\Debug\net7.0\QuestaoComClasses.dll
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\bin\Debug\net7.0\QuestaoComClasses.pdb
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\obj\Debug\net7.0\QuestaoComClasses.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\obj\Debug\net7.0\QuestaoComClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\obj\Debug\net7.0\QuestaoComClasses.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\obj\Debug\net7.0\QuestaoComClasses.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\obj\Debug\net7.0\QuestaoComClasses.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\obj\Debug\net7.0\QuestaoComClasses.dll
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\obj\Debug\net7.0\refint\QuestaoComClasses.dll
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\obj\Debug\net7.0\QuestaoComClasses.pdb
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\obj\Debug\net7.0\QuestaoComClasses.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\ClassesAtributosMetodosMembrosEstaticos\QuestaoComClasses\QuestaoComClasses\obj\Debug\net7.0\ref\QuestaoComClasses.dll

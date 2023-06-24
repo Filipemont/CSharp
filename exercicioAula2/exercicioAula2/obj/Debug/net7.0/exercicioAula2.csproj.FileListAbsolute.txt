@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\obj\Debug\net7.0\exercicioAula2.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\obj\Debug\net7.0\exercicioAula2.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\obj\Debug\net7.0\exercicioAula2.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\obj\Debug\net7.0\exercicioAula2.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\obj\Debug\net7.0\exercicioAula2.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\bin\Debug\net7.0\exercicioAula2.exe
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\bin\Debug\net7.0\exercicioAula2.deps.json
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\bin\Debug\net7.0\exercicioAula2.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\bin\Debug\net7.0\exercicioAula2.dll
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\bin\Debug\net7.0\exercicioAula2.pdb
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\obj\Debug\net7.0\exercicioAula2.dll
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\obj\Debug\net7.0\refint\exercicioAula2.dll
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\obj\Debug\net7.0\exercicioAula2.pdb
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\obj\Debug\net7.0\exercicioAula2.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\exercicioAula2\exercicioAula2\obj\Debug\net7.0\ref\exercicioAula2.dll
