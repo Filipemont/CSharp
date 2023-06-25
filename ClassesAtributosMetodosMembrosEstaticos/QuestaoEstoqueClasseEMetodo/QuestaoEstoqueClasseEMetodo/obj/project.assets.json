@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\gitHub\\ProjetosCursoC#\\ClassesAtributosMetodosMembrosEstaticos\\QuestaoEstoqueClasseEMetodo\\QuestaoEstoqueClasseEMetodo\\QuestaoEstoqueClasseEMetodo.csproj",
+      "projectUniqueName": "D:\\gitHub\\ProjetosCursoC#\\CSharp\\ClassesAtributosMetodosMembrosEstaticos\\QuestaoEstoqueClasseEMetodo\\QuestaoEstoqueClasseEMetodo\\QuestaoEstoqueClasseEMetodo.csproj",
       "projectName": "QuestaoEstoqueClasseEMetodo",
-      "projectPath": "D:\\gitHub\\ProjetosCursoC#\\ClassesAtributosMetodosMembrosEstaticos\\QuestaoEstoqueClasseEMetodo\\QuestaoEstoqueClasseEMetodo\\QuestaoEstoqueClasseEMetodo.csproj",
+      "projectPath": "D:\\gitHub\\ProjetosCursoC#\\CSharp\\ClassesAtributosMetodosMembrosEstaticos\\QuestaoEstoqueClasseEMetodo\\QuestaoEstoqueClasseEMetodo\\QuestaoEstoqueClasseEMetodo.csproj",
       "packagesPath": "C:\\Users\\TKN_\\.nuget\\packages\\",
-      "outputPath": "D:\\gitHub\\ProjetosCursoC#\\ClassesAtributosMetodosMembrosEstaticos\\QuestaoEstoqueClasseEMetodo\\QuestaoEstoqueClasseEMetodo\\obj\\",
+      "outputPath": "D:\\gitHub\\ProjetosCursoC#\\CSharp\\ClassesAtributosMetodosMembrosEstaticos\\QuestaoEstoqueClasseEMetodo\\QuestaoEstoqueClasseEMetodo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

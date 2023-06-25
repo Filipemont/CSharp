@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net7.0\ConversorDeMoedas.exe
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net7.0\ConversorDeMoedas.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net7.0\ConversorDeMoedas.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net7.0\ConversorDeMoedas.dll
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net7.0\ConversorDeMoedas.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.dll
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\refint\ConversorDeMoedas.dll
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\ClassesAtributosMetodosMembrosEstaticos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ref\ConversorDeMoedas.dll
