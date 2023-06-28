@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\bin\Debug\net7.0\Encapsulamento.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\refint\Encapsulamento.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\Encapsulamento.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Encapsulamento\Encapsulamento\obj\Debug\net7.0\ref\Encapsulamento.dll
