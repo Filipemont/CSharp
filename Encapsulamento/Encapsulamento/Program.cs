@@ -8,8 +8,8 @@ namespace Encapsulamento {
             Console.WriteLine(p.Nome);
             p.Nome = Console.ReadLine();
             Console.WriteLine(p.Nome);
-            Console.WriteLine(p.GetQuantidade());
-            Console.WriteLine(p.GetPreco());
+            Console.WriteLine(p.Quantidade);
+            Console.WriteLine(p.Preco);
         }
 
     }
