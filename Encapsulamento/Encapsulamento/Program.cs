@@ -5,10 +5,9 @@ namespace Encapsulamento {
         static void Main(string[] args) {
             Produto p = new Produto("TV", 500.00, 10);
 
-            Console.WriteLine(p.GetNome());
-            string nome = Console.ReadLine();
-            p.SetNome(nome); 
-            Console.WriteLine(p.GetNome());
+            Console.WriteLine(p.Nome);
+            p.Nome = Console.ReadLine();
+            Console.WriteLine(p.Nome);
             Console.WriteLine(p.GetQuantidade());
             Console.WriteLine(p.GetPreco());
         }

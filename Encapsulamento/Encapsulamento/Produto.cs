@@ -21,13 +21,20 @@ namespace Encapsulamento {
             _quantidade = quantidade;
         }
 
-        public string GetNome() { return _nome; }
+        public string Nome {
+            get { return _nome; }
+            set {
+                if (value != null && value.Length > 1) {
+                    _nome = value;
+                }
+            }
+        }
+
+
+
+      
         public double GetPreco() { return _preco; }
         public int GetQuantidade() { return _quantidade; }
-
-        public void SetNome(string nome) {
-            _nome = nome;
-        }
 
         public double ValorTotalEmEstoque() {
             return _preco * _quantidade;
