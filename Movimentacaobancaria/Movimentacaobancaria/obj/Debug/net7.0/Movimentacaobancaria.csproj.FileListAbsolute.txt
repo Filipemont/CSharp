@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\bin\Debug\net7.0\Movimentacaobancaria.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\bin\Debug\net7.0\Movimentacaobancaria.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\bin\Debug\net7.0\Movimentacaobancaria.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\bin\Debug\net7.0\Movimentacaobancaria.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\bin\Debug\net7.0\Movimentacaobancaria.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\obj\Debug\net7.0\Movimentacaobancaria.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\obj\Debug\net7.0\Movimentacaobancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\obj\Debug\net7.0\Movimentacaobancaria.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\obj\Debug\net7.0\Movimentacaobancaria.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\obj\Debug\net7.0\Movimentacaobancaria.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\obj\Debug\net7.0\Movimentacaobancaria.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\obj\Debug\net7.0\refint\Movimentacaobancaria.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\obj\Debug\net7.0\Movimentacaobancaria.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\obj\Debug\net7.0\Movimentacaobancaria.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Movimentacaobancaria\Movimentacaobancaria\obj\Debug\net7.0\ref\Movimentacaobancaria.dll
