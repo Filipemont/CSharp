@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayComObjetosDeClasse", "ArrayComObjetosDeClasse\ArrayComObjetosDeClasse.csproj", "{4DBEA898-13B0-461C-B598-70B1B94E365B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DBEA898-13B0-461C-B598-70B1B94E365B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBEA898-13B0-461C-B598-70B1B94E365B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBEA898-13B0-461C-B598-70B1B94E365B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBEA898-13B0-461C-B598-70B1B94E365B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F48870E8-D072-434B-B18A-E169A490E02E}
+	EndGlobalSection
+EndGlobal

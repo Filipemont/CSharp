@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\bin\Debug\net7.0\ArrayComObjetosDeClasse.exe
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\bin\Debug\net7.0\ArrayComObjetosDeClasse.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\bin\Debug\net7.0\ArrayComObjetosDeClasse.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\bin\Debug\net7.0\ArrayComObjetosDeClasse.dll
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\bin\Debug\net7.0\ArrayComObjetosDeClasse.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\obj\Debug\net7.0\ArrayComObjetosDeClasse.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\obj\Debug\net7.0\ArrayComObjetosDeClasse.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\obj\Debug\net7.0\ArrayComObjetosDeClasse.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\obj\Debug\net7.0\ArrayComObjetosDeClasse.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\obj\Debug\net7.0\ArrayComObjetosDeClasse.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\obj\Debug\net7.0\ArrayComObjetosDeClasse.dll
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\obj\Debug\net7.0\refint\ArrayComObjetosDeClasse.dll
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\obj\Debug\net7.0\ArrayComObjetosDeClasse.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\obj\Debug\net7.0\ArrayComObjetosDeClasse.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\ArrayComObjetosDeClasse\ArrayComObjetosDeClasse\obj\Debug\net7.0\ref\ArrayComObjetosDeClasse.dll

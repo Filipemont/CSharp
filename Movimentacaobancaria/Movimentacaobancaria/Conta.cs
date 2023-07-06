@@ -15,8 +15,8 @@ namespace Movimentacaobancaria {
 
 
 
-        public Conta(string nome, int numeroConta, double saldo) : this(nome, numeroConta) {
-            Saldo = saldo;
+        public Conta(string nome, int numeroConta, double depositoInicial) : this(nome, numeroConta) {
+            AdicionarSaldo(depositoInicial);
         }
 
 

@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\bin\Debug\net7.0\Pensionato.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\bin\Debug\net7.0\Pensionato.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\bin\Debug\net7.0\Pensionato.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\bin\Debug\net7.0\Pensionato.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\bin\Debug\net7.0\Pensionato.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\obj\Debug\net7.0\refint\Pensionato.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\obj\Debug\net7.0\Pensionato.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Pensionato\Pensionato\obj\Debug\net7.0\ref\Pensionato.dll

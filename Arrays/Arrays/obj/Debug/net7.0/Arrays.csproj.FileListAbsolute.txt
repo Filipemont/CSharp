@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\bin\Debug\net7.0\Arrays.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\bin\Debug\net7.0\Arrays.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\bin\Debug\net7.0\Arrays.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\bin\Debug\net7.0\Arrays.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\obj\Debug\net7.0\Arrays.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\obj\Debug\net7.0\Arrays.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arrays\Arrays\obj\Debug\net7.0\ref\Arrays.dll
