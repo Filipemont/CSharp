@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\bin\Debug\net7.0\ListaFixacao.exe
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\bin\Debug\net7.0\ListaFixacao.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\bin\Debug\net7.0\ListaFixacao.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\bin\Debug\net7.0\ListaFixacao.dll
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\bin\Debug\net7.0\ListaFixacao.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\obj\Debug\net7.0\ListaFixacao.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\obj\Debug\net7.0\ListaFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\obj\Debug\net7.0\ListaFixacao.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\obj\Debug\net7.0\ListaFixacao.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\obj\Debug\net7.0\ListaFixacao.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\obj\Debug\net7.0\ListaFixacao.dll
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\obj\Debug\net7.0\refint\ListaFixacao.dll
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\obj\Debug\net7.0\ListaFixacao.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\obj\Debug\net7.0\ListaFixacao.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\ListaFixacao\ListaFixacao\obj\Debug\net7.0\ref\ListaFixacao.dll
