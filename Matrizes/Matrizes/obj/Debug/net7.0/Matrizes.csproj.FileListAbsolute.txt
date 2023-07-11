@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\bin\Debug\net7.0\Matrizes.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\bin\Debug\net7.0\Matrizes.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\bin\Debug\net7.0\Matrizes.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\bin\Debug\net7.0\Matrizes.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\bin\Debug\net7.0\Matrizes.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\obj\Debug\net7.0\Matrizes.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\obj\Debug\net7.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\obj\Debug\net7.0\Matrizes.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\obj\Debug\net7.0\Matrizes.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\obj\Debug\net7.0\Matrizes.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\obj\Debug\net7.0\Matrizes.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\obj\Debug\net7.0\refint\Matrizes.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\obj\Debug\net7.0\Matrizes.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\obj\Debug\net7.0\Matrizes.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Matrizes\Matrizes\obj\Debug\net7.0\ref\Matrizes.dll
