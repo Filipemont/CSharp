@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\obj\Debug\net7.0\MatrizFixacao.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\obj\Debug\net7.0\MatrizFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\obj\Debug\net7.0\MatrizFixacao.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\obj\Debug\net7.0\MatrizFixacao.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\obj\Debug\net7.0\MatrizFixacao.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\bin\Debug\net7.0\MatrizFixacao.exe
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\bin\Debug\net7.0\MatrizFixacao.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\bin\Debug\net7.0\MatrizFixacao.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\bin\Debug\net7.0\MatrizFixacao.dll
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\bin\Debug\net7.0\MatrizFixacao.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\obj\Debug\net7.0\MatrizFixacao.dll
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\obj\Debug\net7.0\refint\MatrizFixacao.dll
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\obj\Debug\net7.0\MatrizFixacao.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\obj\Debug\net7.0\MatrizFixacao.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\MatrizFixacao\MatrizFixacao\obj\Debug\net7.0\ref\MatrizFixacao.dll
