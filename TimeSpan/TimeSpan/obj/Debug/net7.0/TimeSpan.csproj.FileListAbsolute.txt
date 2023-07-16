@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.exe
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.dll
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\bin\Debug\net7.0\TimeSpan.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.dll
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\obj\Debug\net7.0\refint\TimeSpan.dll
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\obj\Debug\net7.0\TimeSpan.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpan\TimeSpan\obj\Debug\net7.0\ref\TimeSpan.dll

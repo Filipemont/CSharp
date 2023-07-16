@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\bin\Debug\net7.0\TimeSpanPropsAndOperations.exe
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\bin\Debug\net7.0\TimeSpanPropsAndOperations.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\bin\Debug\net7.0\TimeSpanPropsAndOperations.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\bin\Debug\net7.0\TimeSpanPropsAndOperations.dll
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\bin\Debug\net7.0\TimeSpanPropsAndOperations.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\obj\Debug\net7.0\TimeSpanPropsAndOperations.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\obj\Debug\net7.0\TimeSpanPropsAndOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\obj\Debug\net7.0\TimeSpanPropsAndOperations.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\obj\Debug\net7.0\TimeSpanPropsAndOperations.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\obj\Debug\net7.0\TimeSpanPropsAndOperations.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\obj\Debug\net7.0\TimeSpanPropsAndOperations.dll
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\obj\Debug\net7.0\refint\TimeSpanPropsAndOperations.dll
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\obj\Debug\net7.0\TimeSpanPropsAndOperations.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\obj\Debug\net7.0\TimeSpanPropsAndOperations.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\TimeSpanPropsAndOperations\TimeSpanPropsAndOperations\obj\Debug\net7.0\ref\TimeSpanPropsAndOperations.dll

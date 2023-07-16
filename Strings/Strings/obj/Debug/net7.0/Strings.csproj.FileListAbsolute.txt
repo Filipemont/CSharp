@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\bin\Debug\net7.0\Strings.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\bin\Debug\net7.0\Strings.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\bin\Debug\net7.0\Strings.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\bin\Debug\net7.0\Strings.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\bin\Debug\net7.0\Strings.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\obj\Debug\net7.0\Strings.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\obj\Debug\net7.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\obj\Debug\net7.0\Strings.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\obj\Debug\net7.0\Strings.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\obj\Debug\net7.0\Strings.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\obj\Debug\net7.0\Strings.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\obj\Debug\net7.0\refint\Strings.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\obj\Debug\net7.0\Strings.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\obj\Debug\net7.0\Strings.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Strings\Strings\obj\Debug\net7.0\ref\Strings.dll

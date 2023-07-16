@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\bin\Debug\net7.0\DateTime.exe
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\bin\Debug\net7.0\DateTime.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\bin\Debug\net7.0\DateTime.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\bin\Debug\net7.0\DateTime.dll
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\bin\Debug\net7.0\DateTime.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime.dll
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\obj\Debug\net7.0\refint\DateTime.dll
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\obj\Debug\net7.0\DateTime.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\DateTime\DateTime\obj\Debug\net7.0\ref\DateTime.dll
