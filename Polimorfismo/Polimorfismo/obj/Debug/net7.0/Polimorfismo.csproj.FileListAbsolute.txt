@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\bin\Debug\net7.0\Polimorfismo.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\obj\Debug\net7.0\refint\Polimorfismo.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\obj\Debug\net7.0\Polimorfismo.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Polimorfismo\Polimorfismo\obj\Debug\net7.0\ref\Polimorfismo.dll
