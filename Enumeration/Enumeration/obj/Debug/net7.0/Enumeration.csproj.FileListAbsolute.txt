@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\bin\Debug\net7.0\Enumeration.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\bin\Debug\net7.0\Enumeration.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\bin\Debug\net7.0\Enumeration.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\bin\Debug\net7.0\Enumeration.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\bin\Debug\net7.0\Enumeration.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\obj\Debug\net7.0\Enumeration.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\obj\Debug\net7.0\Enumeration.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\obj\Debug\net7.0\Enumeration.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\obj\Debug\net7.0\Enumeration.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\obj\Debug\net7.0\Enumeration.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\obj\Debug\net7.0\Enumeration.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\obj\Debug\net7.0\refint\Enumeration.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\obj\Debug\net7.0\Enumeration.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\obj\Debug\net7.0\Enumeration.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Enumeration\Enumeration\obj\Debug\net7.0\ref\Enumeration.dll
