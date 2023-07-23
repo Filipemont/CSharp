@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\bin\Debug\net7.0\AbstractMethodsQuestion.exe
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\bin\Debug\net7.0\AbstractMethodsQuestion.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\bin\Debug\net7.0\AbstractMethodsQuestion.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\bin\Debug\net7.0\AbstractMethodsQuestion.dll
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\bin\Debug\net7.0\AbstractMethodsQuestion.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\obj\Debug\net7.0\AbstractMethodsQuestion.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\obj\Debug\net7.0\AbstractMethodsQuestion.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\obj\Debug\net7.0\AbstractMethodsQuestion.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\obj\Debug\net7.0\AbstractMethodsQuestion.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\obj\Debug\net7.0\AbstractMethodsQuestion.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\obj\Debug\net7.0\AbstractMethodsQuestion.dll
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\obj\Debug\net7.0\refint\AbstractMethodsQuestion.dll
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\obj\Debug\net7.0\AbstractMethodsQuestion.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\obj\Debug\net7.0\AbstractMethodsQuestion.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\AbstractMethodsQuestion\AbstractMethodsQuestion\obj\Debug\net7.0\ref\AbstractMethodsQuestion.dll

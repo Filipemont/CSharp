@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\bin\Debug\net7.0\OrderItemWithComposition.exe
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\bin\Debug\net7.0\OrderItemWithComposition.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\bin\Debug\net7.0\OrderItemWithComposition.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\bin\Debug\net7.0\OrderItemWithComposition.dll
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\bin\Debug\net7.0\OrderItemWithComposition.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\obj\Debug\net7.0\OrderItemWithComposition.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\obj\Debug\net7.0\OrderItemWithComposition.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\obj\Debug\net7.0\OrderItemWithComposition.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\obj\Debug\net7.0\OrderItemWithComposition.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\obj\Debug\net7.0\OrderItemWithComposition.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\obj\Debug\net7.0\OrderItemWithComposition.dll
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\obj\Debug\net7.0\refint\OrderItemWithComposition.dll
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\obj\Debug\net7.0\OrderItemWithComposition.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\obj\Debug\net7.0\OrderItemWithComposition.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\OrderItemWithComposition\OrderItemWithComposition\obj\Debug\net7.0\ref\OrderItemWithComposition.dll
