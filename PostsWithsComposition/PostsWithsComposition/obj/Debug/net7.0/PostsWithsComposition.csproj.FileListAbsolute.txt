@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\bin\Debug\net7.0\PostsWithsComposition.exe
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\bin\Debug\net7.0\PostsWithsComposition.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\bin\Debug\net7.0\PostsWithsComposition.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\bin\Debug\net7.0\PostsWithsComposition.dll
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\bin\Debug\net7.0\PostsWithsComposition.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\obj\Debug\net7.0\PostsWithsComposition.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\obj\Debug\net7.0\PostsWithsComposition.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\obj\Debug\net7.0\PostsWithsComposition.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\obj\Debug\net7.0\PostsWithsComposition.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\obj\Debug\net7.0\PostsWithsComposition.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\obj\Debug\net7.0\PostsWithsComposition.dll
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\obj\Debug\net7.0\refint\PostsWithsComposition.dll
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\obj\Debug\net7.0\PostsWithsComposition.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\obj\Debug\net7.0\PostsWithsComposition.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\PostsWithsComposition\PostsWithsComposition\obj\Debug\net7.0\ref\PostsWithsComposition.dll
