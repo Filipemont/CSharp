@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\bin\Debug\net7.0\TaxesCalculator.exe
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\bin\Debug\net7.0\TaxesCalculator.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\bin\Debug\net7.0\TaxesCalculator.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\bin\Debug\net7.0\TaxesCalculator.dll
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\bin\Debug\net7.0\TaxesCalculator.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\obj\Debug\net7.0\TaxesCalculator.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\obj\Debug\net7.0\TaxesCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\obj\Debug\net7.0\TaxesCalculator.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\obj\Debug\net7.0\TaxesCalculator.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\obj\Debug\net7.0\TaxesCalculator.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\obj\Debug\net7.0\TaxesCalculator.dll
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\obj\Debug\net7.0\refint\TaxesCalculator.dll
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\obj\Debug\net7.0\TaxesCalculator.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\obj\Debug\net7.0\TaxesCalculator.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\TaxesCalculator\TaxesCalculator\obj\Debug\net7.0\ref\TaxesCalculator.dll
