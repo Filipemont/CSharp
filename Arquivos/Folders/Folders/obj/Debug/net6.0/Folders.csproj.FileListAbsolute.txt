@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\bin\Debug\net6.0\Folders.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\bin\Debug\net6.0\Folders.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\bin\Debug\net6.0\Folders.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\bin\Debug\net6.0\Folders.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\bin\Debug\net6.0\Folders.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\obj\Debug\net6.0\Folders.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\obj\Debug\net6.0\Folders.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\obj\Debug\net6.0\Folders.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\obj\Debug\net6.0\Folders.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\obj\Debug\net6.0\Folders.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\obj\Debug\net6.0\Folders.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\obj\Debug\net6.0\refint\Folders.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\obj\Debug\net6.0\Folders.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\obj\Debug\net6.0\Folders.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Folders\Folders\obj\Debug\net6.0\ref\Folders.dll

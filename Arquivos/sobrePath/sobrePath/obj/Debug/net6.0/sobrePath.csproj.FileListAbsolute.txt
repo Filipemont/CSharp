@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\bin\Debug\net6.0\sobrePath.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\bin\Debug\net6.0\sobrePath.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\bin\Debug\net6.0\sobrePath.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\bin\Debug\net6.0\sobrePath.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\bin\Debug\net6.0\sobrePath.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\obj\Debug\net6.0\sobrePath.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\obj\Debug\net6.0\sobrePath.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\obj\Debug\net6.0\sobrePath.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\obj\Debug\net6.0\sobrePath.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\obj\Debug\net6.0\sobrePath.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\obj\Debug\net6.0\sobrePath.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\obj\Debug\net6.0\refint\sobrePath.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\obj\Debug\net6.0\sobrePath.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\obj\Debug\net6.0\sobrePath.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\sobrePath\sobrePath\obj\Debug\net6.0\ref\sobrePath.dll

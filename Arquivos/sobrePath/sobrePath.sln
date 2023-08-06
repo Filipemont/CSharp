@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sobrePath", "sobrePath\sobrePath.csproj", "{DC14A5E5-F27B-45C7-BC88-E026FB928126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC14A5E5-F27B-45C7-BC88-E026FB928126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC14A5E5-F27B-45C7-BC88-E026FB928126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC14A5E5-F27B-45C7-BC88-E026FB928126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC14A5E5-F27B-45C7-BC88-E026FB928126}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {751DFE8F-059D-4A4B-A69D-5FC0CE0C2EB7}
+	EndGlobalSection
+EndGlobal
