@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\bin\Debug\net6.0\LocacaoSemInterface.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\bin\Debug\net6.0\LocacaoSemInterface.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\bin\Debug\net6.0\LocacaoSemInterface.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\bin\Debug\net6.0\LocacaoSemInterface.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\bin\Debug\net6.0\LocacaoSemInterface.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\obj\Debug\net6.0\LocacaoSemInterface.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\obj\Debug\net6.0\LocacaoSemInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\obj\Debug\net6.0\LocacaoSemInterface.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\obj\Debug\net6.0\LocacaoSemInterface.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\obj\Debug\net6.0\LocacaoSemInterface.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\obj\Debug\net6.0\LocacaoSemInterface.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\obj\Debug\net6.0\refint\LocacaoSemInterface.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\obj\Debug\net6.0\LocacaoSemInterface.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\obj\Debug\net6.0\LocacaoSemInterface.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Interfaces\LocacaoSemInterface\LocacaoSemInterface\obj\Debug\net6.0\ref\LocacaoSemInterface.dll
