@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\bin\Debug\net6.0\Files2.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\bin\Debug\net6.0\Files2.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\bin\Debug\net6.0\Files2.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\bin\Debug\net6.0\Files2.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\bin\Debug\net6.0\Files2.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\obj\Debug\net6.0\Files2.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\obj\Debug\net6.0\Files2.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\obj\Debug\net6.0\Files2.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\obj\Debug\net6.0\Files2.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\obj\Debug\net6.0\Files2.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\obj\Debug\net6.0\Files2.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\obj\Debug\net6.0\refint\Files2.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\obj\Debug\net6.0\Files2.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\obj\Debug\net6.0\Files2.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\Files2\Files2\obj\Debug\net6.0\ref\Files2.dll

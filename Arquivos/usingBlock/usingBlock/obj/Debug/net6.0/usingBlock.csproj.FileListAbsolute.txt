@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\bin\Debug\net6.0\usingBlock.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\bin\Debug\net6.0\usingBlock.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\bin\Debug\net6.0\usingBlock.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\bin\Debug\net6.0\usingBlock.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\bin\Debug\net6.0\usingBlock.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\obj\Debug\net6.0\usingBlock.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\obj\Debug\net6.0\usingBlock.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\obj\Debug\net6.0\usingBlock.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\obj\Debug\net6.0\usingBlock.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\obj\Debug\net6.0\usingBlock.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\obj\Debug\net6.0\usingBlock.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\obj\Debug\net6.0\refint\usingBlock.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\obj\Debug\net6.0\usingBlock.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\obj\Debug\net6.0\usingBlock.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\usingBlock\usingBlock\obj\Debug\net6.0\ref\usingBlock.dll

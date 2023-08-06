@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\obj\Debug\net6.0\refint\StreamWriter.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Arquivos\StreamWriter\StreamWriter\obj\Debug\net6.0\ref\StreamWriter.dll
