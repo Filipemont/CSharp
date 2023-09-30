@@ -1,5 +1,4 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 using System.Linq;
 
 namespace Linq
@@ -8,12 +7,10 @@ namespace Linq
     {
         static void Main(string[] args)
         {
-            int[]numbers = Enumerable.Range(0, 10).ToArray();
+            int[]numbers = Enumerable.Range(1, 10).Select(x => x * 2 -1).ToArray();            
+            Array.ForEach(numbers, x => Console.WriteLine(x+ " "));
 
-
-            Console.WriteLine(numbers.Where(x => x % 2 != 0).Select(x => x*10).ToString());
-
-
+            //IEnumerable<int> result = numbers.Where(x => x % 2 != 0).Select(x => x*10);
         }
     }
 }

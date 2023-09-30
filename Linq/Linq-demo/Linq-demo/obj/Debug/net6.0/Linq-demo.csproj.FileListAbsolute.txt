@@ -1,0 +1,15 @@
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\bin\Debug\net6.0\Linq-demo.exe
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\bin\Debug\net6.0\Linq-demo.deps.json
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\bin\Debug\net6.0\Linq-demo.runtimeconfig.json
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\bin\Debug\net6.0\Linq-demo.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\bin\Debug\net6.0\Linq-demo.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\obj\Debug\net6.0\Linq-demo.csproj.AssemblyReference.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\obj\Debug\net6.0\Linq-demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\obj\Debug\net6.0\Linq-demo.AssemblyInfoInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\obj\Debug\net6.0\Linq-demo.AssemblyInfo.cs
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\obj\Debug\net6.0\Linq-demo.csproj.CoreCompileInputs.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\obj\Debug\net6.0\Linq-demo.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\obj\Debug\net6.0\refint\Linq-demo.dll
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\obj\Debug\net6.0\Linq-demo.pdb
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\obj\Debug\net6.0\Linq-demo.genruntimeconfig.cache
+D:\gitHub\ProjetosCursoC#\CSharp\Linq\Linq-demo\Linq-demo\obj\Debug\net6.0\ref\Linq-demo.dll
