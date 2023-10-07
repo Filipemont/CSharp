@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gitHub\\ProjetosCursoC#\\CSharp\\Linq\\Linq-demo\\Linq-demo\\Linq-demo.csproj": {}
+    "D:\\github\\projetoscursoc#\\csharp\\linq\\linq-demo\\linq-demo\\Linq-demo.csproj": {}
   },
   "projects": {
-    "D:\\gitHub\\ProjetosCursoC#\\CSharp\\Linq\\Linq-demo\\Linq-demo\\Linq-demo.csproj": {
+    "D:\\github\\projetoscursoc#\\csharp\\linq\\linq-demo\\linq-demo\\Linq-demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gitHub\\ProjetosCursoC#\\CSharp\\Linq\\Linq-demo\\Linq-demo\\Linq-demo.csproj",
+        "projectUniqueName": "D:\\github\\projetoscursoc#\\csharp\\linq\\linq-demo\\linq-demo\\Linq-demo.csproj",
         "projectName": "Linq-demo",
-        "projectPath": "D:\\gitHub\\ProjetosCursoC#\\CSharp\\Linq\\Linq-demo\\Linq-demo\\Linq-demo.csproj",
+        "projectPath": "D:\\github\\projetoscursoc#\\csharp\\linq\\linq-demo\\linq-demo\\Linq-demo.csproj",
         "packagesPath": "C:\\Users\\TKN_\\.nuget\\packages\\",
-        "outputPath": "D:\\gitHub\\ProjetosCursoC#\\CSharp\\Linq\\Linq-demo\\Linq-demo\\obj\\",
+        "outputPath": "D:\\github\\projetoscursoc#\\csharp\\linq\\linq-demo\\linq-demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

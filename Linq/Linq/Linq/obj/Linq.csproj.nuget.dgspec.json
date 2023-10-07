@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gitHub\\ProjetosCursoC#\\CSharp\\Linq\\Linq\\Linq\\Linq.csproj": {}
+    "D:\\github\\projetoscursoC#\\CSharp\\linq\\linq\\linq\\Linq.csproj": {}
   },
   "projects": {
-    "D:\\gitHub\\ProjetosCursoC#\\CSharp\\Linq\\Linq\\Linq\\Linq.csproj": {
+    "D:\\github\\projetoscursoC#\\CSharp\\linq\\linq\\linq\\Linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gitHub\\ProjetosCursoC#\\CSharp\\Linq\\Linq\\Linq\\Linq.csproj",
+        "projectUniqueName": "D:\\github\\projetoscursoC#\\CSharp\\linq\\linq\\linq\\Linq.csproj",
         "projectName": "Linq",
-        "projectPath": "D:\\gitHub\\ProjetosCursoC#\\CSharp\\Linq\\Linq\\Linq\\Linq.csproj",
+        "projectPath": "D:\\github\\projetoscursoC#\\CSharp\\linq\\linq\\linq\\Linq.csproj",
         "packagesPath": "C:\\Users\\TKN_\\.nuget\\packages\\",
-        "outputPath": "D:\\gitHub\\ProjetosCursoC#\\CSharp\\Linq\\Linq\\Linq\\obj\\",
+        "outputPath": "D:\\github\\projetoscursoC#\\CSharp\\linq\\linq\\linq\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
